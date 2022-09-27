@@ -8,6 +8,7 @@
 - [ABOUT ME](#About-Me)
 - [NAVIGATING THE PROJECT](#Navigating-the-Project)
 - [FILES USED](#Files-Used)
+- [ADDITIONAL INFORMATION](#Additional-Information)
 
 ## About Me
 
@@ -32,6 +33,8 @@ Introduces profile and explains the attatched files and links.
 
 ### "Resume Fall 2022.pdf"
 My most current resume outlining my education, experiences, and skillset.
+
+## Additional Information
 
 ### [LinkedIn](https://www.linkedin.com/in/armani-lopez/)
 My LinkedIn profile.
