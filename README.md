@@ -15,7 +15,7 @@ Currently, I am a student at The University of Iowa working toward two bachelor'
 
 ## Navigating the Project
 
-Use the file dropdown to select the document you wish to view. The path to follow is written below. Also, feel free to view the links provided for more information!
+Use the file dropdown to select the document you wish to view. The path to follow is listed below. Also, feel free to view the links provided for more information!
 
 ```text
 Hello-World/
@@ -40,7 +40,7 @@ My LinkedIn profile.
 Acknowledges that I have completed the courses required for BMC certification on April 11, 2022.
 
 ### [Celonis Badges](https://www.credly.com/earner/earned)
-Displays the badges I earned for completing courses for Celonis.
+Displays the badges I earned for completing courses on Celonis.
 
 
 
